@@ -15,4 +15,6 @@ This is draft API that is subject to breaking changes.
 
 Online documentation available [here](http://godoc.org/github.com/keep94/tplink).
 
+## Credits
 
+Special thanks to the work of softScheck GmbH: http://github.com/softScheck/tplink-smartplug
